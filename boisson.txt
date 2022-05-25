@@ -3,10 +3,3 @@ Boisson sans alcool :
 Coca cola
 Perrier
 Oasis
-
-
-Boisson avec alcool :
-
-Bière pression
-Vin rouge - Bordeaux
-Rosé - Bordeaux
